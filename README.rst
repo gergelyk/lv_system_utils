@@ -11,7 +11,7 @@ Requirements
 ------------
 
 * LabVIEW 2015 (downgrade to older versions potentially possible).
-* `lv_string_utils <https://github.com/gergelyk/lv_string_utils/>`_.
+* `lv_string_utils 1.0.0 <= version < 2.0.0 <https://github.com/gergelyk/lv_string_utils/>`_.
 * Python (only for `Execute In Python.vi`, recommended distribution: `Anaconda <https://www.continuum.io/downloads>`_.
 * `DebugView <https://technet.microsoft.com/en-us/sysinternals/debugview.aspx>`_ (only for watching the output of `Write To Sys Log.vi`).
 
