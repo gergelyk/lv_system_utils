@@ -13,7 +13,7 @@ This VI is usable only under Windows operating systems.
   Data to be converted into string and written to the system log.
 
 **format string** *(Input, String)*
-  Optional string that specifies how to create resulting string. See `Format Container Into String <http://lv-string-utils.readthedocs.io/en/latest/format_container_into_string.html>`_ to learn more about formating.
+  Optional string that specifies how to create resulting string. See `Format Container Into String <http://lv-string-utils.readthedocs.io/en/latest/format_container_into_string.html>`_ to learn more about formating. Format string can optionally start wiht one of three prefixes: `E:` - shifts message to error level, 'W:' - shifts message to warning level, 'I:' - default, leaves the message at info level. Information about message level will appear in front of the actual message in the system log.
 
 **message** *(Output, String)*
   Formated string that is written to the system log.
