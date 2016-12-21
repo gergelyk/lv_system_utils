@@ -3,6 +3,10 @@ lv_system_utils
 
 LabVIEW utilities for processing strings. Especially recommended to programmers who are familiar with Python.
 
+`Introduction - System Log <http://krason.biz/blog/using%20system%20log%20in%20labview.html>`_
+
+`Introduction - Python Integration <http://krason.biz/blog/labview%20and%20python%20integration.py.html>`_
+
 `Documentation <http://lv_system_utils.readthedocs.io/>`_
 
 `Source code <https://github.com/gergelyk/lv_system_utils/>`_
