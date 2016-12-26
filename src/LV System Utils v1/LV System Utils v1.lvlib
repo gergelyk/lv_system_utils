@@ -5,7 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="System Utils" Type="Folder">
-		<Item Name="Execute In Python.vi" Type="VI" URL="../System Utils/Execute In Python.vi"/>
-		<Item Name="Write To Sys Log.vi" Type="VI" URL="../System Utils/Write To Sys Log.vi"/>
+		<Item Name="Execute In Python.vi" Type="VI" URL="/&lt;userlib&gt;/LV System Utils v1/System Utils/Execute In Python.vi"/>
+		<Item Name="Exit Application.vi" Type="VI" URL="/&lt;userlib&gt;/LV System Utils v1/System Utils/Exit Application.vi"/>
+		<Item Name="Write To Sys Log.vi" Type="VI" URL="/&lt;userlib&gt;/LV System Utils v1/System Utils/Write To Sys Log.vi"/>
 	</Item>
 </Library>
