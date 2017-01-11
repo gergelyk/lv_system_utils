@@ -5,7 +5,7 @@ LabVIEW utilities for processing strings. Especially recommended to programmers 
 
 `Introduction - System Log <http://krason.me/blog/using%20system%20log%20in%20labview.html>`_
 
-`Introduction - Python Integration <http://krason.me/blog/labview%20and%20python%20integration.py.html>`_
+`Introduction - Python Integration <http://krason.me/blog/labview%20and%20python%20integration.html>`_
 
 `Documentation <http://lv_system_utils.readthedocs.io/>`_
 
